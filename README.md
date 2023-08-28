@@ -1,4 +1,4 @@
-### Obfuscate your python source code to hide it from everyone
+t### Obfuscate your python source code to hide it from everyone
 
 Sample obfuscated file :
 ```
@@ -9,6 +9,7 @@ exec(marshal.loads(gzip.decompress(zlib.decompress(base64.b64decode(b'eNoB3QYi+R
 If somebody try change exec to print, this is what prints
 ```
 
-<code object <module> at 0x15034df59df0, file "Nice Try", line 1>```
+<code object <module> at 0x15034df59df0, file "Nice Try", line 1>
+```
 
 Star my Repo [🌟]
