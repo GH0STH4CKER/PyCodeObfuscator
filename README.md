@@ -1,2 +1,3 @@
-# PyCodeObfuscator
-Obfuscate your python source code to hide it from copycats
+### Obfuscate your python source code to hide it from everyone
+
+Star my Repo [🌟]
