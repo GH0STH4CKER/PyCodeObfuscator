@@ -1,4 +1,4 @@
-t### Obfuscate your python source code to hide it from everyone
+### Obfuscate your python source code to hide it from everyone
 
 Sample obfuscated file :
 ```
